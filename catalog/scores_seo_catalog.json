@@ -1,10 +1,200 @@
 {
-  "generatedAt": "2026-11-24T01:54:41.008Z",
+  "generatedAt": "2026-11-24T13:03:01.828Z",
   "source": "https://nextscore.org",
   "pagesUrl": "https://nextscore-org.github.io/open-piano-sheet-music/",
-  "totalScores": 505,
+  "totalScores": 515,
   "composersCount": 28,
   "scores": [
+    {
+      "id": "586",
+      "numericId": 586,
+      "title": "Das Wohltemperierte Clavier I, Praeludium XI",
+      "composer": "J. S. Bach",
+      "composerSlug": "j-s-bach",
+      "canonicalUrl": "https://nextscore.org/s/586-das-wohltemperierte-clavier-i-praeludium-xi.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 104,
+      "timeSignature": "12/8",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/586.svg",
+        "midi": "https://nextscore.org/assets/586.mid",
+        "musicxml": "https://nextscore.org/assets/586.musicxml"
+      }
+    },
+    {
+      "id": "585",
+      "numericId": 585,
+      "title": "Helfft mir Gottes Güte preisen",
+      "composer": "J. S. Bach",
+      "composerSlug": "j-s-bach",
+      "canonicalUrl": "https://nextscore.org/s/585-helfft-mir-gottes-gute-preisen.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 54,
+      "timeSignature": "4/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/585.svg",
+        "midi": "https://nextscore.org/assets/585.mid",
+        "musicxml": "https://nextscore.org/assets/585.musicxml"
+      }
+    },
+    {
+      "id": "584",
+      "numericId": 584,
+      "title": "BWV 1001 Adagio",
+      "composer": "J. S. Bach",
+      "composerSlug": "j-s-bach",
+      "canonicalUrl": "https://nextscore.org/s/584-bwv-1001-adagio.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 60,
+      "timeSignature": "4/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/584.svg",
+        "midi": "https://nextscore.org/assets/584.mid",
+        "musicxml": "https://nextscore.org/assets/584.musicxml"
+      }
+    },
+    {
+      "id": "583",
+      "numericId": 583,
+      "title": "Prélude de Prélude et Fugue en Ut mineur",
+      "composer": "J. S. Bach",
+      "composerSlug": "j-s-bach",
+      "canonicalUrl": "https://nextscore.org/s/583-prelude-de-prelude-et-fugue-en-ut-mineur.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 72,
+      "timeSignature": "4/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/583.svg",
+        "midi": "https://nextscore.org/assets/583.mid",
+        "musicxml": "https://nextscore.org/assets/583.musicxml"
+      }
+    },
+    {
+      "id": "582",
+      "numericId": 582,
+      "title": "Lute Suite BWV 997: 1. Prelude",
+      "composer": "J. S. Bach",
+      "composerSlug": "j-s-bach",
+      "canonicalUrl": "https://nextscore.org/s/582-lute-suite-bwv-997-1-prelude.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 60,
+      "timeSignature": "4/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/582.svg",
+        "midi": "https://nextscore.org/assets/582.mid",
+        "musicxml": "https://nextscore.org/assets/582.musicxml"
+      }
+    },
+    {
+      "id": "581",
+      "numericId": 581,
+      "title": "Hilf Gott, dass mir's gelinge",
+      "composer": "J. S. Bach",
+      "composerSlug": "j-s-bach",
+      "canonicalUrl": "https://nextscore.org/s/581-hilf-gott-dass-mir-s-gelinge.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 50,
+      "timeSignature": "4/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/581.svg",
+        "midi": "https://nextscore.org/assets/581.mid",
+        "musicxml": "https://nextscore.org/assets/581.musicxml"
+      }
+    },
+    {
+      "id": "580",
+      "numericId": 580,
+      "title": "Komm, heiliger Geist, Herre Gott",
+      "composer": "J. S. Bach",
+      "composerSlug": "j-s-bach",
+      "canonicalUrl": "https://nextscore.org/s/580-komm-heiliger-geist-herre-gott.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 72,
+      "timeSignature": "3/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/580.svg",
+        "midi": "https://nextscore.org/assets/580.mid",
+        "musicxml": "https://nextscore.org/assets/580.musicxml"
+      }
+    },
+    {
+      "id": "579",
+      "numericId": 579,
+      "title": "BWV 1006 - Preludio",
+      "composer": "J. S. Bach",
+      "composerSlug": "j-s-bach",
+      "canonicalUrl": "https://nextscore.org/s/579-bwv-1006-preludio.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 60,
+      "timeSignature": "3/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/579.svg",
+        "midi": "https://nextscore.org/assets/579.mid",
+        "musicxml": "https://nextscore.org/assets/579.musicxml"
+      }
+    },
+    {
+      "id": "578",
+      "numericId": 578,
+      "title": "BWV 1003 Andante",
+      "composer": "J. S. Bach",
+      "composerSlug": "j-s-bach",
+      "canonicalUrl": "https://nextscore.org/s/578-bwv-1003-andante.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 60,
+      "timeSignature": "3/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/578.svg",
+        "midi": "https://nextscore.org/assets/578.mid",
+        "musicxml": "https://nextscore.org/assets/578.musicxml"
+      }
+    },
+    {
+      "id": "577",
+      "numericId": 577,
+      "title": "Dies sind die Heilgen zehn Gebot",
+      "composer": "J. S. Bach",
+      "composerSlug": "j-s-bach",
+      "canonicalUrl": "https://nextscore.org/s/577-dies-sind-die-heilgen-zehn-gebot.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 70,
+      "timeSignature": "2/2",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/577.svg",
+        "midi": "https://nextscore.org/assets/577.mid",
+        "musicxml": "https://nextscore.org/assets/577.musicxml"
+      }
+    },
     {
       "id": "576",
       "numericId": 576,

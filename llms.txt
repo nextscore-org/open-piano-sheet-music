@@ -1,6 +1,6 @@
 # Open Interactive Piano Sheet Music & MusicXML Catalog (NextScore)
 
-> Open public catalog of 505+ interactive piano sheet music scores across 28+ composers with Do-Re-Mi (Solfège) notes, 1-5 piano fingerings, 60fps Waterfall visualizer, BLE-MIDI smart piano sync, and direct SVG / MIDI / MusicXML downloads.
+> Open public catalog of 515+ interactive piano sheet music scores across 28+ composers with Do-Re-Mi (Solfège) notes, 1-5 piano fingerings, 60fps Waterfall visualizer, BLE-MIDI smart piano sync, and direct SVG / MIDI / MusicXML downloads.
 
 - Main Web App & Interactive Studio: https://nextscore.org/
 - Studio Notation Editor: https://nextscore.org/studio/
