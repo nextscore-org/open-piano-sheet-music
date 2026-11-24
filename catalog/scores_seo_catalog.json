@@ -1,10 +1,219 @@
 {
-  "generatedAt": "2026-11-24T13:03:01.828Z",
+  "generatedAt": "2026-11-24T13:38:47.801Z",
   "source": "https://nextscore.org",
   "pagesUrl": "https://nextscore-org.github.io/open-piano-sheet-music/",
-  "totalScores": 515,
-  "composersCount": 28,
+  "totalScores": 526,
+  "composersCount": 37,
   "scores": [
+    {
+      "id": "597",
+      "numericId": 597,
+      "title": "Gymnopédie No. 1",
+      "composer": "Erik Satie",
+      "composerSlug": "erik-satie",
+      "canonicalUrl": "https://nextscore.org/s/597-gymnopedie-no-1-erik-satie-piano.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 72,
+      "timeSignature": "3/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/597.svg",
+        "midi": "https://nextscore.org/assets/597.mid",
+        "musicxml": "https://nextscore.org/assets/597.musicxml"
+      }
+    },
+    {
+      "id": "596",
+      "numericId": 596,
+      "title": "Moonlight Sonata – 1st Movement (Theme)",
+      "composer": "Ludwig van Beethoven",
+      "composerSlug": "ludwig-van-beethoven",
+      "canonicalUrl": "https://nextscore.org/s/596-moonlight-sonata-1st-movement-beethoven.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 56,
+      "timeSignature": "4/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/596.svg",
+        "midi": "https://nextscore.org/assets/596.mid",
+        "musicxml": "https://nextscore.org/assets/596.musicxml"
+      }
+    },
+    {
+      "id": "595",
+      "numericId": 595,
+      "title": "Canon in D (Easy Piano)",
+      "composer": "Johann Pachelbel",
+      "composerSlug": "johann-pachelbel",
+      "canonicalUrl": "https://nextscore.org/s/595-canon-in-d-pachelbel-easy-piano.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 76,
+      "timeSignature": "4/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/595.svg",
+        "midi": "https://nextscore.org/assets/595.mid",
+        "musicxml": "https://nextscore.org/assets/595.musicxml"
+      }
+    },
+    {
+      "id": "594",
+      "numericId": 594,
+      "title": "Greensleeves (What Child Is This)",
+      "composer": "Traditional English",
+      "composerSlug": "traditional-english",
+      "canonicalUrl": "https://nextscore.org/s/594-greensleeves-what-child-is-this-piano.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 96,
+      "timeSignature": "3/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/594.svg",
+        "midi": "https://nextscore.org/assets/594.mid",
+        "musicxml": "https://nextscore.org/assets/594.musicxml"
+      }
+    },
+    {
+      "id": "593",
+      "numericId": 593,
+      "title": "Deck the Halls",
+      "composer": "Traditional Welsh Carol",
+      "composerSlug": "traditional-welsh-carol",
+      "canonicalUrl": "https://nextscore.org/s/593-deck-the-halls-easy-piano.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 120,
+      "timeSignature": "4/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/593.svg",
+        "midi": "https://nextscore.org/assets/593.mid",
+        "musicxml": "https://nextscore.org/assets/593.musicxml"
+      }
+    },
+    {
+      "id": "592",
+      "numericId": 592,
+      "title": "O Holy Night (Cantique de Noël)",
+      "composer": "Adolphe Adam",
+      "composerSlug": "adolphe-adam",
+      "canonicalUrl": "https://nextscore.org/s/592-o-holy-night-piano.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 72,
+      "timeSignature": "6/8",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/592.svg",
+        "midi": "https://nextscore.org/assets/592.mid",
+        "musicxml": "https://nextscore.org/assets/592.musicxml"
+      }
+    },
+    {
+      "id": "591",
+      "numericId": 591,
+      "title": "Joy to the World",
+      "composer": "Lowell Mason & G. F. Handel",
+      "composerSlug": "lowell-mason-g-f-handel",
+      "canonicalUrl": "https://nextscore.org/s/591-joy-to-the-world-piano.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 112,
+      "timeSignature": "4/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/591.svg",
+        "midi": "https://nextscore.org/assets/591.mid",
+        "musicxml": "https://nextscore.org/assets/591.musicxml"
+      }
+    },
+    {
+      "id": "590",
+      "numericId": 590,
+      "title": "We Wish You a Merry Christmas",
+      "composer": "Traditional English Carol",
+      "composerSlug": "traditional-english-carol",
+      "canonicalUrl": "https://nextscore.org/s/590-we-wish-you-a-merry-christmas-piano.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 126,
+      "timeSignature": "3/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/590.svg",
+        "midi": "https://nextscore.org/assets/590.mid",
+        "musicxml": "https://nextscore.org/assets/590.musicxml"
+      }
+    },
+    {
+      "id": "589",
+      "numericId": 589,
+      "title": "Jingle Bells",
+      "composer": "James Lord Pierpont",
+      "composerSlug": "james-lord-pierpont",
+      "canonicalUrl": "https://nextscore.org/s/589-jingle-bells-easy-piano.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 120,
+      "timeSignature": "4/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/589.svg",
+        "midi": "https://nextscore.org/assets/589.mid",
+        "musicxml": "https://nextscore.org/assets/589.musicxml"
+      }
+    },
+    {
+      "id": "588",
+      "numericId": 588,
+      "title": "Silent Night (Stille Nacht)",
+      "composer": "Franz Xaver Gruber",
+      "composerSlug": "franz-xaver-gruber",
+      "canonicalUrl": "https://nextscore.org/s/588-silent-night-easy-piano.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 84,
+      "timeSignature": "3/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/588.svg",
+        "midi": "https://nextscore.org/assets/588.mid",
+        "musicxml": "https://nextscore.org/assets/588.musicxml"
+      }
+    },
+    {
+      "id": "587",
+      "numericId": 587,
+      "title": "Invention 15",
+      "composer": "J. S. Bach",
+      "composerSlug": "j-s-bach",
+      "canonicalUrl": "https://nextscore.org/s/587-invention-15.html",
+      "keyEn": "C major / A minor",
+      "keyVi": "Đô trưởng / La thứ (C / Am)",
+      "tempo": 105,
+      "timeSignature": "4/4",
+      "openingSolfegeVi": "",
+      "openingLetters": "",
+      "assets": {
+        "svg": "https://nextscore.org/assets/587.svg",
+        "midi": "https://nextscore.org/assets/587.mid",
+        "musicxml": "https://nextscore.org/assets/587.musicxml"
+      }
+    },
     {
       "id": "586",
       "numericId": 586,

@@ -1,4 +1,4 @@
-# 🎼 Ludwig van Beethoven — Free Interactive Piano Sheet Music & MusicXML (1 Scores)
+# 🎼 Ludwig van Beethoven — Free Interactive Piano Sheet Music & MusicXML (2 Scores)
 
 > Practice **Ludwig van Beethoven** piano sheet music interactively on **[NextScore.org](https://nextscore.org/)** with Do-Re-Mi (Solfège) note labels, 1–5 fingerings, 60fps Waterfall visualizer, Bluetooth BLE-MIDI sync, and free SVG / MIDI / MusicXML downloads.
 
@@ -6,7 +6,8 @@
 
 | # | Title | Key | Tempo | Time | Opening Notes (Đô-Rê-Mi) | Letter Notes (A-B-C) | Play & Download |
 |---|-------|-----|-------|------|--------------------------|----------------------|-----------------|
-| 1 | **[Für Elise](https://nextscore.org/s/1-fur-elise.html)** | C major / A minor | 78 BPM | 4/4 | `—` | `—` | [🎹 Play](https://nextscore.org/s/1-fur-elise.html) · [SVG](https://nextscore.org/assets/1.svg) · [MIDI](https://nextscore.org/assets/1.mid) · [MusicXML](https://nextscore.org/assets/1.musicxml) |
+| 1 | **[Moonlight Sonata – 1st Movement (Theme)](https://nextscore.org/s/596-moonlight-sonata-1st-movement-beethoven.html)** | C major / A minor | 56 BPM | 4/4 | `—` | `—` | [🎹 Play](https://nextscore.org/s/596-moonlight-sonata-1st-movement-beethoven.html) · [SVG](https://nextscore.org/assets/596.svg) · [MIDI](https://nextscore.org/assets/596.mid) · [MusicXML](https://nextscore.org/assets/596.musicxml) |
+| 2 | **[Für Elise](https://nextscore.org/s/1-fur-elise.html)** | C major / A minor | 78 BPM | 4/4 | `—` | `—` | [🎹 Play](https://nextscore.org/s/1-fur-elise.html) · [SVG](https://nextscore.org/assets/1.svg) · [MIDI](https://nextscore.org/assets/1.mid) · [MusicXML](https://nextscore.org/assets/1.musicxml) |
 
 ---
 
